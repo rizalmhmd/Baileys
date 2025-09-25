@@ -1,7 +1,7 @@
 {
-  "name": "@itsukichan/baileys",
+  "name": "Ryuu311/Whiskeysockets-Baileys",
   "version": "7.3.2",
-  "description": "WhatsApp API Modification By Itsukiichan",
+  "description": "WhatsApp-API-Modification-By-Ryuu",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -18,7 +18,7 @@
     "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
   },
   "license": "MIT",
-  "author": "Itsukichann",
+  "author": "Ryuu/Reinzz",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
